@@ -71,30 +71,24 @@ Both figures help communicate the performance of the models visually, making it 
 
 ---
 
-## 🔧 Technologies & Libraries Used
+## 🔍 Model Outputs
+### 📉 Regression Model – Predicting Monthly Charges
+**📄 Regression Output Screenshot:**
 
-- **Python 3.10+**
-- **VS Code**
-- **Libraries**:
-  - `pandas`, `numpy`
-  - `scikit-learn`
-  - `matplotlib`, `seaborn`
+**📈 Actual vs Predicted Plot:**
 
----
+### ✅ Classification Model – Predicting Customer Churn
+**📄 Classification Output Screenshot:**
+**📊 Confusion Matrix:**
 
-## 📁 File Structure
+## ⚙️ Technologies & Libraries Used
 
-```plaintext
-├── Telco_Churn_Classification_Model.py
-├── Telco_MonthlyCharges_Regression_Model.py
-├── figures/
-│   ├── Confusion_Matrix_Churn_Classification.png
-│   └── Actual_vs_Predicted_Monthlycharges.png
-|   └── Classification_Outcome.png
-|   └── Regression_Outcome.png
-├── dataset/
-│   └── Telco-Customer-Churn.csv
-└── README.md
+- **Python**
+- **Pandas** – Data manipulation
+- **NumPy** – Numerical computations
+- **Scikit-learn** – Machine learning models
+- **Matplotlib / Seaborn** – Data visualization
+- **LabelEncoder** – Encoding categorical variables
 
 ---
 
@@ -108,3 +102,22 @@ Both figures help communicate the performance of the models visually, making it 
 - Regression model showed good fit, though variability may increase with inconsistent billing options or discounts.
 
 These insights are valuable for customer retention campaigns, upselling strategies, and forecasting departmental revenue.
+
+---
+
+## 📁 File Structure
+
+```plaintext
+├── Telco_Churn_Classification_Model.py
+├── Telco_MonthlyCharges_Regression_Model.py
+├── figures/
+│   ├── Confusion_Matrix_Churn_Classification.png
+│   └── Actual_vs_Predicted_Monthlycharges.png
+├── screenshots/                      
+│   ├── Classification_Output.png
+│   ├── Regression_Metrics_Output.png
+├── dataset/
+│   └── Telco-Customer-Churn.csv
+└── README.md
+
+---
