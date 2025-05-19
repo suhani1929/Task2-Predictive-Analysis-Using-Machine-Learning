@@ -10,7 +10,7 @@
 *DURATION* : 4 WEEKS
 
 *MENTOR* : NEELA SANTOSH
-
+---
 # 📊Telco Customer Churn & Billing
 
 This project showcases a machine learning-based predictive analysis using the Telco Customer Churn dataset. The objective is to build two separate models using supervised learning techniques — one for **classification** (to predict customer churn) and the other for **regression** (to predict monthly billing charges). The goal is to derive actionable insights that can help businesses in customer retention and revenue prediction.
