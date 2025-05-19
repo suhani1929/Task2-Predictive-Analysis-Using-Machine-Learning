@@ -143,5 +143,3 @@ These insights are valuable for customer retention campaigns, upselling strategi
 ├── dataset/
 │   └── Telco-Customer-Churn.csv
 └── README.md
-
----
