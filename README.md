@@ -73,13 +73,17 @@ Both figures help communicate the performance of the models visually, making it 
 
 ## 🔍 Model Outputs
 ### 📉 Regression Model – Predicting Monthly Charges
-**📄 Regression Output Screenshot:**
-
-**📈 Actual vs Predicted Plot:**
-
+  - **📄 Regression Output Screenshot:**
+                           ![Image](https://github.com/user-attachments/assets/dbf6fed4-1be0-4759-8d8f-ff5a4573324e)
+  - **📈 Actual vs Predicted Plot:**
+                           ![Image](https://github.com/user-attachments/assets/7779c719-7bbc-4394-bb3d-2ee1eaf6bafb)
 ### ✅ Classification Model – Predicting Customer Churn
-**📄 Classification Output Screenshot:**
-**📊 Confusion Matrix:**
+  - **📄 Classification Output Screenshot:**
+                          ![Image](https://github.com/user-attachments/assets/3be29eb2-d5f3-49ab-b803-5d4ec5dac424)
+  - **📊 Confusion Matrix:**
+                          ![Image](https://github.com/user-attachments/assets/2a1b37e8-d6fa-4295-8023-8d82b51b1062)
+
+---
 
 ## ⚙️ Technologies & Libraries Used
 
