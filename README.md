@@ -139,7 +139,7 @@ These insights are valuable for customer retention campaigns, upselling strategi
 │   └── Actual_vs_Predicted_Monthlycharges.png
 ├── screenshots/                      
 │   ├── Classification_Output.png
-│   ├── Regression_Metrics_Output.png
+│   └── Regression_Metrics_Output.png
 ├── dataset/
 │   └── Telco-Customer-Churn.csv
 └── README.md
