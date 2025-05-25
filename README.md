@@ -132,8 +132,7 @@ These insights are valuable for customer retention campaigns, upselling strategi
 ## 📁 File Structure
 
 ```plaintext
-├── Telco_Churn_Classification_Model.py
-├── Telco_MonthlyCharges_Regression_Model.py
+├── Telco_Churn_Regression_Analysis.ipynb
 ├── figures/
 │   ├── Confusion_Matrix_Churn_Classification.png
 │   └── Actual_vs_Predicted_Monthlycharges.png
